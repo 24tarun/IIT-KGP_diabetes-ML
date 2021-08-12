@@ -1,1 +1,1 @@
-# IIT-KGP_diabetes
+# IIT-KGP_diabetes-ml
